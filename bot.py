@@ -1,6 +1,5 @@
 """Main bot entry point for the Telegram Digital Products Store."""
 
-
 import logging
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ConversationHandler, PreCheckoutQueryHandler
 from config import settings, validate_settings
