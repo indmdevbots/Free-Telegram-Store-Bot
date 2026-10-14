@@ -2,7 +2,7 @@
 
 I made this Bot Free 100%.
 
-> Message me at [@InDMDev](https://t.me/InDMDev) for your advanced bot customizations.
+> Message me at [@devteamindmbot](https://t.me/devteamindmbot) for your advanced bot customizations.
 > For more Bots like this, and to be the first to know when I publish more advanced bots, join my channel: [@InDMDevBots](https://t.me/InDMDevBots)
 Telegram bot for selling digital products: · sell software license keys on Telegram · Telegram shop/store bot · crypto payment bot · CryptoBot integration · Telegram Payments card checkout · automated digital delivery · Python e-commerce bot · python-telegram-bot store · SQLAlchemy SQLite Telegram bot · self-hosted digital goods storefront.
 > 
@@ -379,5 +379,5 @@ Yes — released under the [MIT License](LICENSE).
 Released under the [MIT License](LICENSE).
 
 > ⚠️ **Note: Use this program only for legal purposes.**
-> InDMDev is not and will not be responsible for any illegal activity/activities you indulge in using any of our programs.
-#From InDMDev
+>  is not and will not be responsible for any illegal activity/activities you indulge in using any of our programs.
+#From 
